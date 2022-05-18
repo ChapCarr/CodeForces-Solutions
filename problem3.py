@@ -1,4 +1,5 @@
 # A. Team
+# Attempts 1
 solutions = int(input())
 score = 0
 total_score = 0
