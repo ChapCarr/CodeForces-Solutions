@@ -1,4 +1,5 @@
 # Problem A. To many long words
+# Attempts 3
 words = int(input())
 for i in range(words):
         word = input()
